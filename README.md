@@ -1,1 +1,1 @@
-# python-quantori
+# python-hw-course
